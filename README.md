@@ -1,3 +1,3 @@
-## MyBarber mobile
+## MyBarber reactjs
 
-mobile app developed in the course of rocketseat:
+mobile app developed in the course of rocketseat
